@@ -39,3 +39,20 @@ h5 {
     text-align: center;
 
 }
+
+buttons {
+    display: block;
+    background-color: #000000;
+    margin-right: 60px;
+    width: 150px;
+    line height: 60px;
+    
+}
+
+.strong {
+
+        font-size: 96px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: firebrick ;
+        text-align: center;
+}
